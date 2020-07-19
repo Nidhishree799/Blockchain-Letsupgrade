@@ -1,0 +1,22 @@
+Assignment 1 Day 1
+1. Blockchain involves mixture of two type of technologies distributive / decentralised  database and cryptography:
+    *Verifiable
+    *Unchangeable
+    *Tamper - proof
+    *Immutable 
+2.Blockchain solves the problem of :
+  *Authenticity
+  * Security
+  * Need of Powerful third party for trust
+3.Features of blockchain :
+  * Decentralized Technology
+  * Enhanced Security
+  * Distributed  Ledgers
+  * Faster settlement
+  * Consensus
+4. A block contains :
+  * Block  Number
+  * Transaction Records
+  * Previous Block Signature
+  * Mining Key
+5. Blockchain  is verifiable by SHA256 
